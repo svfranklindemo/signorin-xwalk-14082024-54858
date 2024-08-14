@@ -1,7 +1,7 @@
 {
   "mappings": [
-    "/content/xsc-xwalk-site/:/",
-    "/content/xsc-xwalk-site/metadata.json:/metadata.json",
-    "/content/xsc-xwalk-site/redirects.json:/redirects.json"
+    "/content/signorin/signorin-2024-8-14-11-18-25/:/",
+    "/content/signorin/signorin-2024-8-14-11-18-25/metadata.json:/metadata.json",
+    "/content/signorin/signorin-2024-8-14-11-18-25/redirects.json:/redirects.json"
   ]
 }
